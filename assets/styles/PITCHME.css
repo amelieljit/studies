@@ -1,0 +1,14 @@
+.reveal h1 { font-size: 2em; }
+.reveal h2 { font-size: 1.5em; }
+.reveal h3 { font-size: 1.2em; }
+.reveal h4 { font-size: 1em; }
+.reveal p { font-size: 0.5em; }
+.reveal section img {
+    border: 1px solid #ccc;
+    box-shadow: none;
+    max-height: 70vh;
+}
+.reveal ul,
+.reveal ol { 
+    font-size: 80%; 
+}
