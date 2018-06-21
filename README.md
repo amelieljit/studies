@@ -9,3 +9,4 @@ Book
 3. [Effective JavaScript ch 4](https://gitpitch.com/amelieljit/studies/20180504) - 2018/05/04
 4. [Effective JavaScript ch 5](https://github.com/amelieljit/studies/blob/20180518/prepared.md) - 2018/05/18
 5. [Effective JavaScript ch 6](https://github.com/amelieljit/studies/blob/20180608/prepared.md) - 2018/06/08
+6. [Effective JavaScript ch 7](https://github.com/amelieljit/studies/blob/20180622/prepared.md) - 2018/06/22
