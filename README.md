@@ -14,3 +14,4 @@ Book
 ### 2. High Performance JavaScript
 
 1. [High Performance JavaScript ch 1 ~ 2](https://github.com/amelieljit/studies/blob/20180706/prepared.md) - 2018/07/06
+2. [High Performance JavaScript ch 3](https://github.com/amelieljit/studies/blob/20180720/prepared.md) - 2018/07/20
