@@ -18,3 +18,4 @@ Book
 3. [High Performance JavaScript ch 4](https://github.com/amelieljit/studies/blob/20180803/prepared.md) - 2018/08/03
 4. [High Performance JavaScript ch 5](https://github.com/amelieljit/studies/blob/20180817/prepared.md) - 2018/08/17
 5. [High Performance JavaScript ch 6](https://github.com/amelieljit/studies/blob/high-performance-js-ch6/prepare.md) - 2018/09/07
+6. [High Performance JavaScript ch 7](https://github.com/amelieljit/studies/blob/high-performance-js-ch7/prepare.md) - 2018/10/12
